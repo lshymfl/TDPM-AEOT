@@ -12,14 +12,14 @@ Download the above pre-trained model to folder **cifar10-2**, **DMAE_cifar10-2-1
 ****    
 * CelebA pre-trained model  
 [CelebA Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1gqoRFw6xBwMPBwbhim0wB4M9Skc1UJMg)  
-[CelebA pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1dSU-StVGXY0NUWTlvCqi6-k1f1yw3ImM)
+[CelebA pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1dSU-StVGXY0NUWTlvCqi6-k1f1yw3ImM)  
 Download the above pre-trained model to folder **CelebA-2**, **DMAE_CelebA-2-100**.
 ****    
 * CelebA-HQ pre-trained model  
 [CelebA-HQ Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1hwB5obWjquFOgw-YRDOMpxBxYC3GkomF)  
-[CelebA-HQ pre-trained truncated diffusion model](https://drive.google.com/drive/folders/10ljbVmvXb_h3MOEPyaOrdQFP39VZdkXl)
-****    
+[CelebA-HQ pre-trained truncated diffusion model](https://drive.google.com/drive/folders/10ljbVmvXb_h3MOEPyaOrdQFP39VZdkXl)  
 Download the above pre-trained model to folder **CelebA-HQ-2**, **DMAE_CelebA-HQ-150**.
+****    
 * Download precalculated statistic for dataset:  
 [stats](https://drive.google.com/drive/folders/1_6dj0O20vXyW4rAAL97D-41rbfMy_BDd)
 
