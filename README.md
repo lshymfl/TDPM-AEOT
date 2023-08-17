@@ -7,7 +7,7 @@ python main_DM_cifar-2    --train
 ## Download related the pre-trained model and files
 * CIFAR10 pre-trained model  
 [CIFAR10 Auto-Encoder and trained OT](https://drive.google.com/drive/folders/16d5L4ZWeDOZ49OMGFPnivnHsl26HjmlR)  
-[CIFAR10 pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1wmsSvvo_zl1AWCNa2WcHNRN9yOI0N8SC)
+[CIFAR10 pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1wmsSvvo_zl1AWCNa2WcHNRN9yOI0N8SC)  
 Download the above pre-trained model to folder **cifar10-2**, **DMAE_cifar10-2-100**.
 ****    
 * CelebA pre-trained model  
