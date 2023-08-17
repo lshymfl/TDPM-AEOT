@@ -5,7 +5,7 @@ training AE-OT can refer to [AE-OT](https://github.com/icemiliang/pyvot?utm_sour
 # Download related the trained model and files
 
 
-Download precalculated statistic for dataset:  
+* Download precalculated statistic for dataset:  
 [stats](https://drive.google.com/drive/folders/1_6dj0O20vXyW4rAAL97D-41rbfMy_BDd)
 
 # Sample via this model
