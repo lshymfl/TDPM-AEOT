@@ -17,6 +17,7 @@ python main_DM_cifar-2    --train
 [CelebA-HQ Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1hwB5obWjquFOgw-YRDOMpxBxYC3GkomF)  
 [CelebA-HQ pre-trained truncated diffusion model](https://drive.google.com/drive/folders/10ljbVmvXb_h3MOEPyaOrdQFP39VZdkXl)
 ****    
+Download the above pre-trained model to folder **cifar10-2, **DMAE_cifar10-2-100.
 * Download precalculated statistic for dataset:  
 [stats](https://drive.google.com/drive/folders/1_6dj0O20vXyW4rAAL97D-41rbfMy_BDd)
 
