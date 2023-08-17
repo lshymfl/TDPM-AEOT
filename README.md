@@ -6,16 +6,16 @@ python main_DM_cifar-2    --train
 
 ## Download related the pre-trained model and files
 * CIFAR10 pre-trained model  
-[CIFAR10 Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1gqoRFw6xBwMPBwbhim0wB4M9Skc1UJMg)  
+[CIFAR10 Auto-Encoder and trained OT](https://drive.google.com/drive/folders/16d5L4ZWeDOZ49OMGFPnivnHsl26HjmlR)  
 [CIFAR10 pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1wmsSvvo_zl1AWCNa2WcHNRN9yOI0N8SC)
 ****    
 * CelebA pre-trained model  
 [CelebA Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1gqoRFw6xBwMPBwbhim0wB4M9Skc1UJMg)  
-[CelebA pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1wmsSvvo_zl1AWCNa2WcHNRN9yOI0N8SC)
+[CelebA pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1dSU-StVGXY0NUWTlvCqi6-k1f1yw3ImM)
 ****    
 * CelebA-HQ pre-trained model  
-[CelebA-HQ Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1gqoRFw6xBwMPBwbhim0wB4M9Skc1UJMg)  
-[CelebA-HQ pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1wmsSvvo_zl1AWCNa2WcHNRN9yOI0N8SC)
+[CelebA-HQ Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1hwB5obWjquFOgw-YRDOMpxBxYC3GkomF)  
+[CelebA-HQ pre-trained truncated diffusion model](https://drive.google.com/drive/folders/10ljbVmvXb_h3MOEPyaOrdQFP39VZdkXl)
 ****    
 * Download precalculated statistic for dataset:  
 [stats](https://drive.google.com/drive/folders/1_6dj0O20vXyW4rAAL97D-41rbfMy_BDd)
