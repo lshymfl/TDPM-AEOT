@@ -1,0 +1,1 @@
+modified precalculated statistic of training dataset 
