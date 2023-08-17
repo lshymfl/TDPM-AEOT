@@ -1,2 +1,2 @@
 # TDPM-AEOT
-GANXIE
+# This implementation is based on / inspired by
