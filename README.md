@@ -1,5 +1,5 @@
 # TDPM-AEOT    
-[TDPM-AEOT code download website](https://github.com/lshymfl/TDPM-AEOT)
+[TDPM-AEOT code download website](https://github.com/lshymfl/TDPM-AEOT)  
 PyTorch implementation of **TDPM-AEOT: A Truncated Probabilistic Diffusion Model with Autoencoder Optimal Transport**
 * training AE-OT can refer to [AE-OT](https://github.com/icemiliang/pyvot?utm_source=catalyzex.com)
 **** 
