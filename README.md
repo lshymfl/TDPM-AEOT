@@ -6,10 +6,7 @@ PyTorch implementation of TDPM-AEOT
 python main_DM_cifar-2    --train
 ****
 ## Sample via this model
-python main_DM_cifar-2    --sample  
-python main_DM_celeba-2    --sample  
-python main_DM_CelebAHQ-2    --sample
-****
+** **First, download pretrained model**
 ### Download related the pre-trained model and files
 * CIFAR10 pre-trained model  
 [CIFAR10 Auto-Encoder and trained OT](https://drive.google.com/drive/folders/16d5L4ZWeDOZ49OMGFPnivnHsl26HjmlR)  
@@ -28,8 +25,12 @@ Download the above pre-trained model to folder **CelebA-HQ-2**, **DMAE_CelebA-HQ
 ****    
 * Download precalculated statistic for dataset:  
 [stats](https://drive.google.com/drive/folders/1_6dj0O20vXyW4rAAL97D-41rbfMy_BDd)
-
-
+**** 
+** **Secondly, sampling**
+python main_DM_cifar-2    --sample  
+python main_DM_celeba-2    --sample  
+python main_DM_CelebAHQ-2    --sample
+****
 
 ## This implementation is based on / inspired by
 https://github.com/icemiliang/pyvot?utm_source=catalyzex.com  
