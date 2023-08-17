@@ -6,7 +6,7 @@ python main_DM_cifar-2    --train
 
 # Download related the pre-trained model and files
 * CIFAR10 pre-trained model  
-//
+    
 * Download precalculated statistic for dataset:  
 [stats](https://drive.google.com/drive/folders/1_6dj0O20vXyW4rAAL97D-41rbfMy_BDd)
 
