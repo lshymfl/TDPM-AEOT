@@ -1,6 +1,8 @@
 # TDPM-AEOT
 PyTorch implementation of TDPM-AEOT   
-* training AE-OT can refer to [AE-OT](https://github.com/icemiliang/pyvot?utm_source=catalyzex.com  )
+* training AE-OT can refer to [AE-OT](https://github.com/icemiliang/pyvot?utm_source=catalyzex.com  )  
+* training our model 
+python main_DM_cifar-2    --train
 
 # Download related the trained model and files
 
