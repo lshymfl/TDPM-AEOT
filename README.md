@@ -6,7 +6,7 @@ python main_DM_cifar-2    --train
 
 ## Download related the pre-trained model and files
 * CIFAR10 pre-trained model  
-[CIFAR10 Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1gqoRFw6xBwMPBwbhim0wB4M9Skc1UJMg)
+[CIFAR10 Auto-Encoder and trained OT](https://drive.google.com/drive/folders/1gqoRFw6xBwMPBwbhim0wB4M9Skc1UJMg)  
 [CIFAR10 pre-trained truncated diffusion model](https://drive.google.com/drive/folders/1wmsSvvo_zl1AWCNa2WcHNRN9yOI0N8SC?usp=sharing)
 ****    
 * Download precalculated statistic for dataset:  
